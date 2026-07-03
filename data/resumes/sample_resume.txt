@@ -1,0 +1,35 @@
+John Doe
+
+Email:
+john.doe@gmail.com
+
+Phone:
++91 9876543210
+
+Education
+
+B.Tech in Computer Science
+XYZ University
+
+Skills
+
+Python
+Machine Learning
+SQL
+Git
+Docker
+TensorFlow
+
+Experience
+
+Machine Learning Intern
+ABC Technologies
+
+Projects
+
+AI Resume Ranking System
+
+Certifications
+
+Google Data Analytics
+AWS Cloud Practitioner
