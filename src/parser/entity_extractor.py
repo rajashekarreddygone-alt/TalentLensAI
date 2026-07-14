@@ -45,6 +45,6 @@ def extract_name(text):
 
     for entity in doc.ents:
         if entity.label_ == "PERSON":
-            return entity.text.strip()
+            return entity.text.split("\n")[0].strip()
 
     return None
