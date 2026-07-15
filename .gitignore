@@ -19,8 +19,8 @@ __pycache__/
 .vscode/
 .idea/
 
-# Model files
-models/
+# Generated/trained model files only
+/models/
 
 # Testing and coverage cache
 .pytest_cache/
