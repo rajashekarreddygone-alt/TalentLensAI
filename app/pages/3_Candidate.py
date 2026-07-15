@@ -102,6 +102,13 @@ if job_description.strip():
     )(),
   )
   display_job_match(match)
+  st.info(
+    "The Job Compatibility Score measures how well your resume aligns with "
+    "the selected job description based on factors such as skills, semantic "
+    "similarity, experience, education, and keyword coverage. "
+    "This score may differ from the Recruiter Ranking Score, which considers "
+    "additional candidate evaluation factors."
+   )
   show_should_apply(match)
 
   st.divider()

@@ -1,5 +1,5 @@
-from src.ai.gemini_client import ask_gemini
-from src.ai.prompts import INTERVIEW_PROMPT
+from .gemini_client import ask_gemini
+from .prompts import INTERVIEW_PROMPT
 
 
 def generate_interview_questions(resume_text):

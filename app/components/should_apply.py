@@ -63,7 +63,7 @@ def show_should_apply(match_result):
     st.success(title)
 
     st.metric(
-        "Estimated Interview Chance",
+        "Overall Job Compatibility Score",
         f"{score:.1f}%"
     )
 

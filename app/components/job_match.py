@@ -12,7 +12,7 @@ def display_job_match(result):
     score = result.overall_match
 
     st.metric(
-        "Overall Match",
+        "Job Compatibility Score",
         f"{score:.2f}%"
     )
 
